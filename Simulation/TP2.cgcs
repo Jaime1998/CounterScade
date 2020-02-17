@@ -1,0 +1,43 @@
+[scade_version: 2019 R3]
+[scade_project: C:/Users/USER/Documents/Scade Proyectos/TP2/TP2.etp]
+[Code Generator]
+1308c76d9f3dd98b2667a39709199470 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/scade_model_without_unused.scade
+a05c52e2294e245288a216964a897476 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/EventCounter.c
+ddfa21a0b6b0e0bac9c34245d39bd740 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/EventCounter.h
+90e1a0cacc2c430f06bff9c92df09157 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/cmd_cg.log
+f6daad9c0c690d731d238aa58e8a67d8 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/config.txt
+d5f92d1bd40f270128e3fdf356adcb9c C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_consts.c
+0422a1fb6de9921c049824df7769096d C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_consts.h
+54e606ad9ec0d64ec1c814f0d2f3f536 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_files.txt
+c570e85441febaa6f6d5e23e14e58b55 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_imported_types.h
+aa5642b25b06b7029ddbe9d556d2f8f5 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_metrics.txt
+62df835adb655c99d5d7d03e82999583 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_sensors.h
+db76ad1d4a8afeef21c81b1d6cd63171 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_types.c
+dcc7a6d845637071a89fdfed771f25b3 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/kcg_types.h
+961d0347b7708dd67d9a429031b7c00e C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/mapping.xml
+ae3eb7ab76cdc5ab7228e39b505e73d6 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/user_macros.h
+[Mapping Utils]
+961d0347b7708dd67d9a429031b7c00e C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/mapping.xml
+c73facea18d05cfaead87ac32716a1eb C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuLib.c
+7770fc261a6c916323af4a1e84af7a90 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuVTable.c
+d094c22405831e5a80444f7234ba8d74 C:/Users/USER/Documents/Scade Proyectos/TP2/TP2.etp
+5188d51c3b3490085c8bad7750229af7 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_mapping.c
+a18ce54456e9fe4043b35c2ac307d949 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_mapping.h
+[Simulator Wrapper]
+961d0347b7708dd67d9a429031b7c00e C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/mapping.xml
+d094c22405831e5a80444f7234ba8d74 C:/Users/USER/Documents/Scade Proyectos/TP2/TP2.etp
+292a0b6cf854e8a0293638b15132cf93 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_dll.c
+59ca8a2f23c360bb6c1bf8eb59c2ca70 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_interface.c
+f30d8c1c7a7512956b5ee41b1cc98012 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_interface.h
+[Type Utils]
+961d0347b7708dd67d9a429031b7c00e C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/mapping.xml
+c73facea18d05cfaead87ac32716a1eb C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuLib.c
+ba954bceb09c977a857f6e4a0833dff7 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuPredefConv.c
+7770fc261a6c916323af4a1e84af7a90 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v195/SCADE/SCADE/lib/C/SmuVTable.c
+d094c22405831e5a80444f7234ba8d74 C:/Users/USER/Documents/Scade Proyectos/TP2/TP2.etp
+b8a75ec499b2c48444089b293d374731 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_type.c
+89441f3d716c68ac4ce15efed33ce3c7 C:/Users/USER/Documents/Scade Proyectos/TP2/Simulation/TP2_type.h
